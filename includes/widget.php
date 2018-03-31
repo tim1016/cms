@@ -1,0 +1,2 @@
+<h4>Side Widget Well</h4>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod consequuntur officia unde enim asperiores quaerat sunt fugit ex eos harum pariatur ullam, quasi quibusdam numquam nihil. In vero velit accusantium?</p>

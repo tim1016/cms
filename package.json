@@ -1,0 +1,25 @@
+{
+  "name": "cms",
+  "version": "1.0.0",
+  "description": "PHP CMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tim1016/cms.git"
+  },
+  "author": "Inkant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tim1016/cms/issues"
+  },
+  "homepage": "https://github.com/tim1016/cms#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-watch": "^5.0.0",
+    "path": "^0.12.7"
+  }
+}
