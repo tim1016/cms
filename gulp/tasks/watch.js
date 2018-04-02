@@ -14,7 +14,7 @@ gulp.task('watch', function() {
 
    });
 
-  watch(['*.php', '*/*.php'], function() {
+  watch(['*.php', '*/*.php', '*/*/*.php'], function() {
     browserSync.reload();
   });
 

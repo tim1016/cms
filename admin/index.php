@@ -1,9 +1,9 @@
-<?php include "includes/header.php"?>
+<?php include "includes/admin_header.php"?>
 
 <div id="wrapper">
 
     <!-- Navigation -->
-    <?php include "includes/navigation.php"?>
+    <?php include "includes/admin_navigation.php"?>
 
     <div id="page-wrapper">
 
@@ -18,7 +18,7 @@
                     </h1>
                     <ol class="breadcrumb">
                         <li>
-                            <i class="fa fa-dashboard"></i>  <a href="index.html">Dashboard</a>
+                            <i class="fa fa-dashboard"></i>  <a href="index.php">Dashboard</a>
                         </li>
                         <li class="active">
                             <i class="fa fa-file"></i> Blank Page
@@ -37,4 +37,4 @@
 </div>
 <!-- /#wrapper -->
 
-<?php include "includes/footer.php"?>
+<?php include "includes/admin_footer.php"?>
